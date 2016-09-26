@@ -1,0 +1,1 @@
+ mahout trainlogistic --input donut.csv --output model2 --target color --categories 2 --predictors x y a b c --types numeric --features 20 --passes 100 --rate 50
